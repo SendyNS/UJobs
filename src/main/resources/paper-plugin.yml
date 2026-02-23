@@ -1,9 +1,9 @@
-name: UJobs
+name: UJobsMastery
 version: '1.0.5'
 main: me.usainsrht.ujobs.UJobsPlugin
 api-version: '1.21'
 authors: [ UsainSrht ]
-description: 'The job plugin.'
+description: 'The UJob addons plugin.'
 dependencies:
   server:
     Vault:
